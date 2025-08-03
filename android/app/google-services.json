@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207777752790",
+    "project_id": "shartflix-a500a",
+    "storage_bucket": "shartflix-a500a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207777752790:android:ce6f6b87c548d4c5a54b77",
+        "android_client_info": {
+          "package_name": "com.nsoftware.shartflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY0G41EFK6rO9p9bTZKb4q5HIGaZTUTzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

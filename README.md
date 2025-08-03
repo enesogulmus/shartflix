@@ -73,10 +73,14 @@ Nodelabs Flutter Developer Case Study projesi. Netflix benzeri bir film streamin
 - **movie_viewed**: Film görüntüleme
   - Parametreler: `movie_id`, `movie_title`, `timestamp`
 
+![img.png](img.png)
+
 #### 🐛 Crashlytics
 - Flutter hataları otomatik olarak yakalanır
 - Platform channel hataları kaydedilir
 - Özel hata kaydetme fonksiyonu mevcuttur
+
+![img_1.png](img_1.png)
 
 ## 👨‍💻 Geliştirici
 
